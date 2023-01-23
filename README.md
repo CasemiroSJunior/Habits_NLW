@@ -25,7 +25,7 @@ Tabela de conteúdos
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Figma
-- JavaScript
+- Typescript
 - React e ReactNative
 - Prisma
 - Fastify
