@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Habits é um aplicativo que possibilita criar novos hábitos te ajuda a acompanha-los.
+O projeto Habits é um aplicativo que possibilita criar novos hábitos e te ajuda à acompanha-los.
 
 ## Instalação
 você pode instalar as dependências necessárias do projeto entrando nas pastas e instando com o *Npm*
